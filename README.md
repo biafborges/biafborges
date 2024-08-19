@@ -1,4 +1,4 @@
-Boas vindas ao meu perfil!!!
+Boas vindas ao meu perfil!! \\
 Meu nome é Beatriz Fernandes
 
 Estou estudando na Alura e me desenvolvendo na linguagem JavaScript.
